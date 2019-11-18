@@ -1,8 +1,8 @@
 export const FireBaseConfig = {
-  apiKey: "<YOUR_API_KEY>",
-  authDomain: "<YOUR_AUTH_DOMAIN>",
-  databaseURL: "<YOUR_DATABASE_URL>",
-  projectId: "<YOUR_PROJECT_ID>",
-  storageBucket: "<YOUR_STORAGE_BUCKETS>",
-  messagingSenderId: "<YOUR_MESSAGING_SENDER_ID>"
+  apiKey: "AIzaSyDm0idQQ7yN90jlqp6m0lrnk1TohC7Mxh4",
+  authDomain: "shopping-cart-1d0fe.firebaseapp.com",
+  databaseURL: "/shopping/er7sDYnU8lhFZU1y4Gpt",
+  projectId: "shopping-cart-1d0fe",
+  storageBucket: "shopping-cart-1d0fe",
+  messagingSenderId: "test"
 };
